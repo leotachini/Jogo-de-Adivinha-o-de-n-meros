@@ -1,0 +1,21 @@
+body {
+    max-width: 600px;
+    margin: 0 auto; 
+    text-align: center;
+    background-color: rgb(4, 4, 68);
+    color: aliceblue;
+  }
+
+  input{
+    background-color: black;
+    color: aliceblue;
+    width: fit-content;
+    font-size: large;
+    border-color: aliceblue;
+  }
+
+  fieldset{
+    background-color: black;
+  }
+  
+  
